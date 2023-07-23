@@ -2,7 +2,7 @@
 
 This is a simple URL Shortener GUI application built using Python and the Tkinter library. The application allows you to enter a long URL and then generates a shortened version of that URL using the TinyURL service. The shortened URL can be copied to the clipboard for easy sharing.
 
-Getting Started
+## Getting Started
 
 To run the URL Shortener application on your local machine, follow these instructions:
 
@@ -12,7 +12,7 @@ To run the URL Shortener application on your local machine, follow these instruc
 4. pip install pyperclip pyshorteners
 5. Run the URL Shortener.py script.
 
-Usage
+## Usage
 1. Launch the URL Shortener application.
 2. In the "Enter URL" field, type or paste the long URL that you want to shorten.
 3. Click on the "Generate Short URL" button.
@@ -21,7 +21,7 @@ Usage
 
 Please note that the shortened URL is generated using the TinyURL service.
 
-Dependencies
+## Dependencies
 
 The URL Shortener application relies on the following libraries:
 
