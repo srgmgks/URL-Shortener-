@@ -3,6 +3,7 @@
 This is a simple URL Shortener GUI application built using Python and the Tkinter library. The application allows you to enter a long URL and then generates a shortened version of that URL using the TinyURL service. The shortened URL can be copied to the clipboard for easy sharing.
 
 Getting Started
+
 To run the URL Shortener application on your local machine, follow these instructions:
 
 1. Clone the repository to your local machine.
