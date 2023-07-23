@@ -1,7 +1,4 @@
-# URL-Shortener-
-Python
-
-URL Shortener
+# URL-Shortener- Python
 
 This is a simple URL Shortener GUI application built using Python and the Tkinter library. The application allows you to enter a long URL and then generates a shortened version of that URL using the TinyURL service. The shortened URL can be copied to the clipboard for easy sharing.
 
